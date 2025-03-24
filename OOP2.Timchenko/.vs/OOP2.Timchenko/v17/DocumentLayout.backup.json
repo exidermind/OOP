@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Light Flight PC\\source\\repos\\OOP2.Timchenko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F09A20-C34F-4EDF-8610-B61E53B0721D}|OOP2.Timchenko\\OOP2.Timchenko.vcxproj|C:\\Users\\Light Flight PC\\source\\repos\\OOP2.Timchenko\\OOP2.Timchenko\\OOP2.Timchenko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34F09A20-C34F-4EDF-8610-B61E53B0721D}|OOP2.Timchenko\\OOP2.Timchenko.vcxproj|solutionrelative:OOP2.Timchenko\\OOP2.Timchenko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP2.Timchenko.cpp",
+              "DocumentMoniker": "C:\\Users\\Light Flight PC\\source\\repos\\OOP2.Timchenko\\OOP2.Timchenko\\OOP2.Timchenko.cpp",
+              "RelativeDocumentMoniker": "OOP2.Timchenko\\OOP2.Timchenko.cpp",
+              "ToolTip": "C:\\Users\\Light Flight PC\\source\\repos\\OOP2.Timchenko\\OOP2.Timchenko\\OOP2.Timchenko.cpp*",
+              "RelativeToolTip": "OOP2.Timchenko\\OOP2.Timchenko.cpp*",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T12:47:01.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
