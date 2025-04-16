@@ -1,0 +1,17 @@
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\bin\Debug\net8.0-windows\OOP4.Timchenko1.exe
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\bin\Debug\net8.0-windows\OOP4.Timchenko1.deps.json
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\bin\Debug\net8.0-windows\OOP4.Timchenko1.runtimeconfig.json
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\bin\Debug\net8.0-windows\OOP4.Timchenko1.dll
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\bin\Debug\net8.0-windows\OOP4.Timchenko1.pdb
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.Form1.resources
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.Properties.Resources.resources
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.csproj.GenerateResource.cache
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.AssemblyInfoInputs.cache
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.AssemblyInfo.cs
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.csproj.CoreCompileInputs.cache
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.dll
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\refint\OOP4.Timchenko1.dll
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.pdb
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\OOP4.Timchenko1.genruntimeconfig.cache
+C:\Users\Light Flight PC\source\repos\OOP4.Timchenko1\OOP4.Timchenko1\obj\Debug\net8.0-windows\ref\OOP4.Timchenko1.dll
