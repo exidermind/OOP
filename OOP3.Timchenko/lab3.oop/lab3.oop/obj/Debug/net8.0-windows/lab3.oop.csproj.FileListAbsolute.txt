@@ -1,0 +1,32 @@
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.exe
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.deps.json
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.runtimeconfig.json
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.dll
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.pdb
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.Form1.resources
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.csproj.GenerateResource.cache
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.AssemblyInfoInputs.cache
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.AssemblyInfo.cs
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.csproj.CoreCompileInputs.cache
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.dll
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\refint\lab3.oop.dll
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.pdb
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.genruntimeconfig.cache
+C:\Users\xante\OneDrive\Рабочий стол\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\ref\lab3.oop.dll
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.exe
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.deps.json
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.runtimeconfig.json
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.dll
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\bin\Debug\net8.0-windows\lab3.oop.pdb
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.Form1.resources
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.csproj.GenerateResource.cache
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.AssemblyInfoInputs.cache
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.AssemblyInfo.cs
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.csproj.CoreCompileInputs.cache
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.dll
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\refint\lab3.oop.dll
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.pdb
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\lab3.oop.genruntimeconfig.cache
+C:\Users\Light Flight PC\Desktop\lab3.oop\lab3.oop\obj\Debug\net8.0-windows\ref\lab3.oop.dll
